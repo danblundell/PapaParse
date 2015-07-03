@@ -1,5 +1,6 @@
 {
 	"name": "papaparse",
+	"version": "4.1.1",
 	"main": "papaparse.js",
 	"homepage": "http://papaparse.com",
 	"authors": [
